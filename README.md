@@ -64,6 +64,6 @@ Reset: Reset the timer to 00:00:00.
 
 1️⃣ Clone the repository:
 
-git clone [https://github.com/enesatacan/Notification-App](https://github.com/enesatacan/StopwatchApp)
+git clone https://github.com/enesatacan/StopwatchApp
 
 ![image](https://github.com/user-attachments/assets/a09d0c47-7a7e-4bf1-9dad-c83be5746c05)
